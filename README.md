@@ -25,7 +25,7 @@ Contributors should read the installation section.
 ## Tests
 There are no tests for this application. 
 
-# Technologies Used
+## Technologies Used
 
 - React-bootstrap
 - React Router
@@ -36,6 +36,8 @@ There are no tests for this application.
 - JWT
 - Express
 
+## Deployed 
+https://book--search--engine.herokuapp.com/
 
 ## Contact
 Any questions feel free to contact me directly here on github or email at eriknajera013@gmail.com.
